@@ -1,0 +1,8 @@
+[Desktop Entry]
+Type=Service
+ServiceTypes=Krita/PythonPlugin
+X-KDE-Library=sut2kpp_importer
+X-Python-2-Compatible=false
+X-Krita-Manual=Manual.html
+Name=Clip Studio Brush Importer (sut2kpp)
+Comment=Converts Clip Studio Paint sub tool brushes (.sut) to Krita brush presets
